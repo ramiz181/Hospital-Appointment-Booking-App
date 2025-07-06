@@ -41,6 +41,8 @@
 #menu-img a p {
     /* font-size: 18px; */
     color: var(--primary-text-color);
+    overflow-wrap: break-word;
+    word-break: break-word;
 }
 
 @media only screen and (min-width:768px) {
