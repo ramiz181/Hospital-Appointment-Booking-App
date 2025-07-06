@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaArrowRight } from 'react-icons/fa'
-import './../styles/HeroSection.css'
+import '../styles/HeroSection.css'
 
 
 export default function HeroSection() {

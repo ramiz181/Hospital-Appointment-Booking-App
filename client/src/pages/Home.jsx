@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Navbar from './../components/Navbar';
+import Navbar from '../components/Navbar';
 
-import './../App.css';
+import '../App.css';
 import HeroSection from '../components/HeroSection';
 
 import Testimonials from '../components/Testimonials';

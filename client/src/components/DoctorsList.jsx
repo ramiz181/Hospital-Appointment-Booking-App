@@ -1,6 +1,6 @@
 import React from 'react'
-import './../styles/DoctorsList.css'
-import './../styles/Specialties.css'
+import '../styles/DoctorsList.css'
+import '../styles/Specialties.css'
 import { doctors } from '../Data';
 import { Link } from 'react-router';
 

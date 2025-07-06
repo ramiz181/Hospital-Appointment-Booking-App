@@ -1,5 +1,5 @@
 import React from 'react'
-import './../styles/Specialties.css'
+import '../styles/Specialties.css'
 import { specialityData } from '../Data';
 import { Link } from 'react-router';
 
